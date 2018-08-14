@@ -1,3 +1,3 @@
-console.log('test')
+console.log('test conflict')
 
 // make some change
